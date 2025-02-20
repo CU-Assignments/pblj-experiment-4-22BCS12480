@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vOYIK_Kq)
+Features of Programs:
+Employee Management System
+Stores employee details (ID, Name, Salary).
+Allows adding, updating, removing, and searching employees.
+Uses ArrayList for dynamic storage.
+
+Card Collection System
+Stores playing cards by symbols (e.g., Hearts, Spades).
+Allows adding new cards and searching by symbol.
+Uses a HashMap<String, List<Card>> for efficient retrieval.
